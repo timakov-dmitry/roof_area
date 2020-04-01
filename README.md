@@ -1,1 +1,1 @@
-# roof_area
+# Calculate roof area with MASK-RCNN
